@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-  color: #ffffff;
+  color: black;
   font-size: 45px;
   line-height: normal;
 }
@@ -61,7 +61,7 @@ h4 {
 
 p {
   color: black;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: normal;
   line-height: 25px;
   letter-spacing: 0.2px;
@@ -69,10 +69,6 @@ p {
 
 .bg-grey {
   background: #2b2b2b !important;
-}
-
-.white-color {
-  color: #f0f0f0;
 }
 
 
