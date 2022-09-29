@@ -126,7 +126,7 @@ figure {
 }
 
 #home {
-  background: url('../images/myself8.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/kemmy.jpg') 50% 0 repeat-y fixed;
   background-size: cover;
   background-position: center center;
   display: -webkit-box;
@@ -142,7 +142,7 @@ figure {
   text-align: right;
 }
 .wrapper-background-dark:after {
-  background: white;
+  background: black;
   opacity:0.95;
 }
 .section-inner {
